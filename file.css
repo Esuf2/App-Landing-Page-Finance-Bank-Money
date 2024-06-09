@@ -1,0 +1,106 @@
+body{
+    background-color: #fcfcfc;
+    width: 98%;
+    margin: auto;
+    margin-top: 2%;
+}
+.body .div1
+{
+    width: 100%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+.body .div1 .sub1,
+.body .div1 .sub1 .im1
+{
+    width: 90%;  
+    text-align: right;  
+}
+.body .div1 .sub2,
+.body .div1 .sub2 .star1
+{
+    width: 20%;
+}
+.body .div2{
+    width: 100%;
+    display: flex;
+}
+.body .div2 .sub1{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+ 
+ .body .div2 .sub1{
+    width: 50%;
+    
+}
+.body .div2 .sub1 .star{
+    margin-bottom: 40%;
+}
+.body .div2 .sub1 .im1{
+    position: relative;
+    left: 40%;
+}
+.body .div2 .sub1 .im2{
+    position: relative;
+    bottom: 50%;
+    left: 25%;
+}
+.body .div2 .sub1 .im3{
+    position: relative;
+    bottom: 45%;
+    left: 25%;
+}
+.body .div2 .sub1 .im4{
+    position: relative;
+    bottom: 40%;
+    left: 25%;
+}
+.body .div2 .sub1 .im5{
+    position: relative;
+    bottom: 40%;
+    left: 20%;
+}
+.body .div2 .sub1 .starr{
+    position: relative;
+    bottom: 120%;
+    left: 35%;
+}
+.body .div2 .sub2
+{
+    width: 50%; 
+    align-items: right;
+    text-align: right;
+}
+.body .div3{
+    width: 100%;
+    margin: auto;
+}
+.body .div3 img{
+    margin-top: -10%;
+    width: 100%;
+}
+.body .div4{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.body .div4 .im4,
+.body .div4 .im5,
+.body .div4 .im6{
+    width: 80%;
+}
+.body .div4 .im7{
+    width: 80%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.body .div4 .im8{
+    width: 70%;
+}
+
